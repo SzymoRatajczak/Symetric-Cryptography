@@ -1,0 +1,2 @@
+# Symetric-Cryptography
+Symetric cryptography uses only one shared key between receiver and sender that's why is used only in secure connections where receiver and sender know each other. Within symetric cryptography we can distinguish a few mode of operations ( these are like rules according which you use alogorithm e.g. CTR,CBC ...) This example shows encrpytion/decryption with AES in CTR mode of operation
